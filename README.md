@@ -1,5 +1,6 @@
 # algorithm note
 
+## 외부 github에서 Fork해온 것!!
 ### **Algorithm: Design and Analysis Part 1** 
 
 by *Tim Roughgarden*
